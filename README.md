@@ -15,4 +15,10 @@
 Answer the questions below
 * Something interesting about me is
 * Ask Mr. Vu anything:
-* List your sports and extracurriculars you participate in
+* List your sports and extracurriculars you participate in:
+
+Something interesting about me: I can wiggle my ears.
+Ask Mr. Vu anything: will there be a codin project for the ap test?
+list your sports an extracurriculars you participate in: I dont particpate in any extracurriculars or sports.
+
+
